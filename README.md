@@ -1,1 +1,1 @@
-# goboilerplate
+# discordgoboilerplate
